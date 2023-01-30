@@ -1,3 +1,7 @@
+# The simplest working calculator app using React.
+
+![Demo](https://github.com/adrianadelazzari/simple-calculator-app/blob/master/src/img/demo.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
